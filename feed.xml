@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mike's Daily Brief</title>
+    <link>https://concivigrowth.github.io/daily-brief-podcast</link>
+    <description>A personalized daily news brief covering local Boston/Somerville news, national headlines, markets, GTM trends, and the Boston startup community.</description>
+    <language>en-us</language>
+    <itunes:author>Concivi Growth</itunes:author>
+    <itunes:email>mike@concivigrowth.com</itunes:email>
+    <itunes:image href="https://concivigrowth.github.io/daily-brief-podcast/cover.jpg"/>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Mike Schumann</itunes:name>
+      <itunes:email>mike@concivigrowth.com</itunes:email>
+    </itunes:owner>
+  </channel>
+</rss>
