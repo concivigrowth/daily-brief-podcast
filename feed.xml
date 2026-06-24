@@ -15,6 +15,14 @@
       <itunes:email>mike@concivigrowth.com</itunes:email>
     </itunes:owner>
     <item>
+      <title>Morning Brief — Wednesday, June 24, 2026</title>
+      <description>Your daily brief covering Somerville and Greater Boston local news, national headlines, international stories, markets, GTM trends, and the Boston startup community.</description>
+      <pubDate>Wed, 24 Jun 2026 05:00:00 -0500</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/concivigrowth/daily-brief-podcast/main/episodes/brief-2026-06-24.mp3" length="7270080" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-brief-2026-06-24</guid>
+      <itunes:duration>1800</itunes:duration>
+    </item>
+    <item>
       <title>Morning Brief — Tuesday, June 23, 2026</title>
       <description>Your daily brief covering Somerville and Greater Boston local news, national headlines, international stories, markets, GTM trends, and the Boston startup community.</description>
       <pubDate>Tue, 23 Jun 2026 05:00:00 -0500</pubDate>
