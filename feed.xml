@@ -3,7 +3,7 @@
   <channel>
     <title>Mike's Daily Brief</title>
     <link>https://concivigrowth.github.io/daily-brief-podcast</link>
-    <description>A personalized daily news brief covering local Boston/Somerville news, national headlines, markets, GTM trends, and the Boston startup community.</description>
+    <description>A personalized daily news brief covering local Boston/Somerville news, national headlines, markets, GTM trends, the Boston startup community, and the New England Patriots.</description>
     <language>en-us</language>
     <itunes:author>Concivi Growth</itunes:author>
     <itunes:email>mike@concivigrowth.com</itunes:email>
@@ -14,6 +14,14 @@
       <itunes:name>Mike Schumann</itunes:name>
       <itunes:email>mike@concivigrowth.com</itunes:email>
     </itunes:owner>
+    <item>
+      <title>Morning Brief — Thursday, June 25, 2026</title>
+      <description>Your daily brief covering Somerville and Greater Boston local news, national headlines, international stories, markets, GTM trends, the Boston startup community, and the New England Patriots.</description>
+      <pubDate>Thu, 25 Jun 2026 05:00:00 -0500</pubDate>
+      <enclosure url="https://raw.githubusercontent.com/concivigrowth/daily-brief-podcast/main/episodes/brief-2026-06-25.mp3" length="7178688" type="audio/mpeg"/>
+      <guid isPermaLink="false">daily-brief-2026-06-25</guid>
+      <itunes:duration>1800</itunes:duration>
+    </item>
     <item>
       <title>Morning Brief — Wednesday, June 24, 2026</title>
       <description>Your daily brief covering Somerville and Greater Boston local news, national headlines, international stories, markets, GTM trends, and the Boston startup community.</description>
